@@ -108,6 +108,7 @@ subplot(3,2,6); plot(t,dm6); title('Demultiplexed Channel 6');
 xlabel("Time (s)");
 ```
 **OUTPUT:**
+
 <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/1cfb6e15-7e1c-4b7a-b50a-f16e732f4496" />
 
 <img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/e3e95f0f-2e7f-4e96-a12f-97b59907ba83" />
@@ -115,6 +116,10 @@ xlabel("Time (s)");
 <img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/6322636e-336d-4c91-ad12-8fe83016a56d" />
 
 **TABULATION**
+
+<img width="840" height="977" alt="image" src="https://github.com/user-attachments/assets/a3ac8696-09f5-4fbb-86f8-c13aa4328e08" />
+
+<img width="827" height="954" alt="image" src="https://github.com/user-attachments/assets/4da3f234-b2ea-4189-a08a-1533813ee108" />
 
 
 **RESULTS**
